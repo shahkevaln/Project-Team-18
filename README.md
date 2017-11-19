@@ -6,4 +6,4 @@ Team
 * Chandan Paranjape
 * Mohit Shah
 * Keval Shah
-* Sunny Udhani The Boss
+* Sunny Udhani
